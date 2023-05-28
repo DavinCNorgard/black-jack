@@ -32,7 +32,7 @@ We had a lot of fun building this project together! (hopefully i didnt bore him 
 4. The sum is the addition of all the cards in the list.
 5. You will also get prompted with this message:
 
-hit or pass?:
+  hit or pass?:
 
 6. Either type `hit` or `pass` depending on your choice.
 7. You will be prompted by this message until you bust or decide to pass.
