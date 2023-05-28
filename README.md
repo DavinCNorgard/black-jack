@@ -14,13 +14,13 @@ We had a lot of fun building this project together! (hopefully i didnt bore him 
 2. It is the players turn first, and the dealers turn second. 
 3. It will show you the table, it will look something like this:
 
-\------------- dealer: [9]
-\----------------------------------------------
-\----------------------------------------------
-\----------------------------------------------
-\----------------------------------------------
-\----------------------------------------------
-\------------- player: [9, 5] sum: 14
+\n------------- dealer: [9]
+\n----------------------------------------------
+\n----------------------------------------------
+\n----------------------------------------------
+\n----------------------------------------------
+\n----------------------------------------------
+\n------------- player: [9, 5] sum: 14
 
 3. The list contains the cards in the players and dealers hands respectively.
 4. The sum is the addition of all the cards in the list.
