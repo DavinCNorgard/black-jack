@@ -15,7 +15,6 @@ We had a lot of fun building this project together! (hopefully i didnt bore him 
 3. It will show you the table, it will look something like this:
 
 ------------- dealer: [9]
-\----------------------------------------------
 
 \----------------------------------------------
 
@@ -24,6 +23,9 @@ We had a lot of fun building this project together! (hopefully i didnt bore him 
 \----------------------------------------------
 
 \----------------------------------------------
+
+\----------------------------------------------
+
 ------------- player: [9, 5] sum: 14
 
 3. The list contains the cards in the players and dealers hands respectively.
